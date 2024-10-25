@@ -5,10 +5,15 @@ This project aims to detect hallucinations in text by classifying summaries as e
 
 # Features
 Binary Classification: Classifies text as factual or hallucinated.
+
 Bag of Words (BoW): Transforms text into a numerical representation for model training.
+
 Custom Logistic Regression: Logistic regression model implemented without external libraries.
+
 Model Evaluation: Comprehensive evaluation using metrics like accuracy, precision, recall, and F1 score.
+
 Cross-Validation: Implements k-fold cross-validation to ensure model robustness.
+
 Error Analysis: Identifies and analyzes misclassified instances to improve model performance.
 
 # Dataset
@@ -20,7 +25,9 @@ Programming Language: Python
 
 # Libraries:
 pandas: For data handling
+
 NumPy: For numerical operations
+
 scikit-learn: For evaluation metrics and cross-validation
 
 # Getting Started
