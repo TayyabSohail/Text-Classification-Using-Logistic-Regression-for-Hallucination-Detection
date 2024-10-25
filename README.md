@@ -25,7 +25,9 @@ scikit-learn: For evaluation metrics and cross-validation
 
 # Getting Started
 Clone the repository.
+
 Install the required libraries.
+
 Load the dataset and run the provided scripts to train and evaluate the model.
 
 # Results
